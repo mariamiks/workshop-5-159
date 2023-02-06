@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #000000;
+}
+
+header {
+    width: 100%;
+    height: 70px;
+    margin-top: 38px;
+    color: #ffffff;
+
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: #C3C3C3;
+    float: left;
+    margin-right: 800px;
+}
+
+header ul a {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: right;
+}
+
+header ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+.xazi {
+    background-color: #C3C3C3;
+    width: 100%;
+    height: 1px;
+    margin-top: 130px;
+
+}
+
+.werili {
+    color: #ffffff;
+    font-size: 128px;
+    letter-spacing: 160px;
+}
+
+.dro {
+    width: 33.33%;
+    margin-left: 60px;
+    color: #ffffff;
+    float: left;
+    margin-top: 50px;
+
+}
+
+.shabati {
+    width: 33.33%;
+    margin-left: 480px;
+    margin-top: 60px;
+    color: #ffffff;
+}
+
+.text {
+    width: 33.33%;
+    margin-left: 716px;
+    margin-bottom: 80px;
+    color: #ffffff;
+
+}
+
+
+article {
+    width: 33.33%;
+    color: #ffffff;
+    float: left;
+    padding: 5px;
+}
+
+article img {
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+
+article h2 {
+    margin: 30px 20px;
+
+
+
+}
+
+footer {
+    color: #ffffff
+}
+
+footer .xazii {
+
+    background-color: #C3C3C3;
+    width: 100%;
+    height: 1px;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 10px 50px;
+}
+
+footer p {
+    font-size: 24px;
+
+
+}
